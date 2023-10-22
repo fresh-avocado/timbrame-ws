@@ -5,3 +5,4 @@
 !.env.vault
 node_modules
 .git
+yarn-error.log
